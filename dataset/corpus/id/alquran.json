@@ -1,0 +1,25 @@
+[{
+    "intent": "alquran.1",
+    "utterances": ["[surah|surat] [alfatihah|al-fatihah] ayat %angka%"],
+    "answers": ["Al-Fatihah ayat {{angka}}"]
+},
+{
+    "intent": "alquran.1.1",
+    "utterances": ["[surah|surat] [alfatihah|al-fatihah]"],
+    "answers": ["Al-Fatihah ayat berapa?","Surah Al-Fatihah adalah surah pertama dalam al-Qur'an. Surah ini diturunkan di Makkah sehingga tergolong surah makiyah dan terdiri dari tujuh ayat. Al-Fatihah merupakan surah yang pertama-tama diturunkan dengan lengkap di antara surah-surah yang ada dalam Al-Qur'an"]
+},
+{
+    "intent": "alquran.2",
+    "utterances": ["[surah|surat] [albaqoroh|al-baqarah|albakoroh|albakarah] ayat %angka%"],
+    "answers": ["Al-Baqarah ayat {{angka}}"]
+},
+{
+    "intent": "alquran.2.1",
+    "utterances": ["[surah|surat] [albaqoroh|al-baqarah|albakoroh|albakarah]"],
+    "answers": ["Al-Baqarah ayat berapa?","Surah Al-Baqarah adalah surah ke-2 dalam Al-Qur'an, serta merupakan surah terpanjang. Surah ini terdiri dari 286 ayat, 6.221 kata, dan 25.500 huruf dan tergolong surah Madaniyah. Surah ini diawali dengan huruf muqaṭṭa'āt A-L-M, yang harus dibaca satu-satu."]
+},
+{
+    "intent": "alquran.3",
+    "utterances": ["[surah|surat] [Aali'Imran|al-imran|alimran]"],
+    "answers": ["Ali'Imran ayat berapa?","Surah Āli Imrān adalah surah ke-3 dalam al-Qur'an. Surah ini terdiri dari 200 ayat dan termasuk surah Madaniyah."]
+}]
